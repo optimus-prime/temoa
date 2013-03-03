@@ -49,3 +49,5 @@ If you are running Coopr from Windows, you may have more luck with a direct
 python command:
 
 \> python  temoa_model  --graph_format svg  data_files\utopia.dat > temoa_utopia.sol
+
+
